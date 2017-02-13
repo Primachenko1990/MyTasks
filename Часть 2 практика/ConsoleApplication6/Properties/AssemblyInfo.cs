@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Управление общими сведениями о сборке осуществляется с помощью 
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("ConsoleApplication13")]
+[assembly: AssemblyTitle("ConsoleApplication6")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("CtrlSoft")]
-[assembly: AssemblyProduct("ConsoleApplication13")]
+[assembly: AssemblyProduct("ConsoleApplication6")]
 [assembly: AssemblyCopyright("Copyright © CtrlSoft 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("828cae56-118c-4f85-aba9-c297924ea07f")]
+[assembly: Guid("48edd08f-7932-4ac2-b411-6d6ef9a561b2")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //
