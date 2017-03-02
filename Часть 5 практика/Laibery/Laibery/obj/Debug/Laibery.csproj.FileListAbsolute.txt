@@ -1,0 +1,6 @@
+c:\users\мудила\documents\visual studio 2012\Projects\Laibery\Laibery\bin\Debug\Laibery.exe.config
+C:\Users\мудила\Documents\Visual Studio 2012\Projects\Laibery\Laibery\bin\Debug\Laibery.exe
+C:\Users\мудила\Documents\Visual Studio 2012\Projects\Laibery\Laibery\bin\Debug\Laibery.pdb
+C:\Users\мудила\Documents\Visual Studio 2012\Projects\Laibery\Laibery\obj\Debug\Laibery.csprojResolveAssemblyReference.cache
+C:\Users\мудила\Documents\Visual Studio 2012\Projects\Laibery\Laibery\obj\Debug\Laibery.exe
+C:\Users\мудила\Documents\Visual Studio 2012\Projects\Laibery\Laibery\obj\Debug\Laibery.pdb
